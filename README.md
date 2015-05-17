@@ -1,0 +1,2 @@
+# libdetail
+Generic LOD library
