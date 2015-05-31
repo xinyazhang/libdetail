@@ -1,2 +1,2 @@
-# libdetail
-Generic LOD library
+# libhgeo
+Library to organize geometry objects hierarchically.
